@@ -2,16 +2,8 @@
 ## Fall 2024 #
 
 - Name:
-- Date:
-- Assignment: Chapter 4
-  - PRACTICE LABS (Shape Display, 24-hr Time)
-  - Remove Gray from RGB
-  - Smallest Number
-  - Exact Change
-  - Leap Year
-  - Max of 2
-  - Max of 3
-  - Count evens
-  - Longest string
-  - Golf scores
-  - Fun with characters 
+- Completion Date:
+
+This repository contains the starter files for labs 4.24 - 4.33 in the required zyBook. You do neet to complete the practice labs (4.22 and 4.33) but you are not required to include the code for those in this repo.
+
+Once you complete all the labs, push the finished files to this repo and update this README file to remove this sentence and the word "starter" from the first sentence.
