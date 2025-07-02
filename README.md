@@ -1,5 +1,4 @@
-# CIS148 zyLAB Assignment
-## Fall 2024 #
+# CIS148 zyLAB Chapter 4
 
 - Name:
 - Completion Date:
