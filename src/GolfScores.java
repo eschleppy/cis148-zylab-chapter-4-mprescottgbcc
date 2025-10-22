@@ -1,10 +1,12 @@
 import java.util.Scanner;
 
 public class GolfScores {
+
+    public String golfScore(int strokes, int par) {
+        return ""; //FIX THIS WHEN READY!
+    }
    
-   /* Type your code here */
-   
-   public static void main(String[] args) {
+   static void main(String[] args) {
       GolfScores score = new GolfScores();
       Scanner scnr = new Scanner(System.in);
       int par;
