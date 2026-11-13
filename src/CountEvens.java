@@ -1,10 +1,26 @@
 import java.util.Scanner;
+import java.util.Scanner;
 
 public class CountEvens {
 
-    /* Type your code here */
+    public int countEvens(int num1, int num2, int num3, int num4){
+        int numEven = 0;
+        if (num1 % 2 == 0){
+            numEven++;
+        }
+        if (num2 % 2 == 0){
+            numEven++;
+        }
+        if (num3 % 2 == 0){
+            numEven++;
+        }
+        if (num4 % 2 == 0){
+            numEven++;
+        }
+        return numEven;
+    }
 
-    static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
         CountEvens labObject = new CountEvens();
 
@@ -18,7 +34,8 @@ public class CountEvens {
         num3 = scnr.nextInt();
         num4 = scnr.nextInt();
 
-        //int result = labObject.countEvens(num1, num2, num3, num4);
-        //System.out.println("Total evens: " + result);
+        int result = labObject.countEvens(num1, num2, num3, num4);
+        System.out.println("Total evens: " + result);
     }
 }
+
